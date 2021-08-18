@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RRGrata
 - 👀 I’m interested in electronics, networking and PLC programming.
 - 🌱 I’m currently learning PiDP-11 and other programming languages.
-- 💞️ I’m looking to collaborate on Raspberry Pi.
+- 💞️ I’m looking to collaborate on Raspberry Pi and NAS. 
 - 📫 How to reach me ...
 
 <!---
